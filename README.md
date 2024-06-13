@@ -43,8 +43,6 @@ Users should be able to:
 -   CSS Animations
 -   Mobile-first workflow
 
-### What I learned
-
 ## Author
 
 -   GitHub - [Arry Black](https://github.com/ArryBlack)
